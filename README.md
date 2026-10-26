@@ -11,8 +11,8 @@ My first GitHub repository for Introduction to Computing.
 
 ## What I Learned
 
--Git tracks changes to files.
+- Git tracks changes to files.
 
--GitHub hosts repositories online.
+- GitHub hosts repositories online.
 
--Commits record changes in the project history.
+- Commits record changes in the project history.
